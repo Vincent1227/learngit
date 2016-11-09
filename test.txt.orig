@@ -1,0 +1,7 @@
+Just for test
+case1
+<<<<<<< HEAD:test.txt
+case2#3
+=======
+case2.0
+>>>>>>> dev:text.txt
