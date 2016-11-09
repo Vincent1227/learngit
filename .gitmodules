@@ -1,6 +1,3 @@
-[submodule "map"]
-	path = map
-	url = C:\\Users\\songhao\\Documents\\learngit
 [submodule "skill"]
 	path = skill
 	url = C:\\Users\\songhao\\Documents\\skill
